@@ -1,4 +1,4 @@
-package com.bryzz.rest.webservices.restfulwebservices;
+package com.bryzz.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 	
@@ -10,6 +10,11 @@ public class HelloWorldBean {
 	
 	public void setMessage(String message) {
 		this.message = message;
+	}
+	
+
+	public String getMessage() {
+		return message;
 	}
 
 	@Override
