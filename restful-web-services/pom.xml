@@ -29,11 +29,11 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		
-		<!-- For Security -->
+		<!-- For Security
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
+		</dependency>	 -->
 		
 		<!-- For monitoring -->
 		<dependency>
